@@ -1,0 +1,14 @@
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\bin\Debug\net6.0\Encapsulation - Homework10.exe
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\bin\Debug\net6.0\Encapsulation - Homework10.deps.json
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\bin\Debug\net6.0\Encapsulation - Homework10.runtimeconfig.json
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\bin\Debug\net6.0\Encapsulation - Homework10.dll
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\bin\Debug\net6.0\Encapsulation - Homework10.pdb
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\Encapsulation - Homework10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\Encapsulation - Homework10.AssemblyInfoInputs.cache
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\Encapsulation - Homework10.AssemblyInfo.cs
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\Encapsulation - Homework10.csproj.CoreCompileInputs.cache
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\Encapsulation - Homework10.dll
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\refint\Encapsulation - Homework10.dll
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\Encapsulation - Homework10.pdb
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\Encapsulation - Homework10.genruntimeconfig.cache
+C:\Users\gulay\Desktop\HWs\Encapsulation - Homework10\Encapsulation - Homework10\obj\Debug\net6.0\ref\Encapsulation - Homework10.dll
